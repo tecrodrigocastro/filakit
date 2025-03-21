@@ -19,7 +19,7 @@ use Illuminate\Notifications\Notifiable;
 
 /**
  * @property int $id
- * @property bool $status
+ * @property StatusEnum $status
  * @property string $name
  * @property string $email
  * @property \Illuminate\Support\Carbon|null $email_verified_at
