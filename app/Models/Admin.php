@@ -2,6 +2,7 @@
 
 namespace App\Models;
 
+use App\Enums\StatusEnum;
 use Filament\Models\Contracts\FilamentUser;
 use Filament\Panel;
 use Illuminate\Auth\Authenticatable;
@@ -73,7 +74,7 @@ class Admin extends Model implements AuthenticatableContract, AuthorizableContra
         return [
             'email_verified_at' => 'datetime',
             'password' => 'hashed',
-            'status' => 'boolean',
+            'status' => StatusEnum::class,
         ];
     }
 }
