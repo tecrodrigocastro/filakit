@@ -13,6 +13,7 @@ web applications with a ready-to-use multi-panel structure.
     - Admin Panel (`/admin`) - For system administrators
     - App Panel (`/app`) - For authenticated application users
     - Public Panel (frontend interface) - For visitors
+- **Environment Configuration** - Centralized configuration through the `config/filakit.php` file
 
 ## System Requirements
 
@@ -26,10 +27,12 @@ web applications with a ready-to-use multi-panel structure.
 # Clone the repository
 laravel new my-app --using=jeffersongoncalves/filakit
 ```
+
 ``` bash
 # Install JavaScript dependencies
 npm install
 ```
+
 ``` bash
 # Set up environment
 cp .env.example .env
@@ -74,9 +77,21 @@ Panels can be customized through their respective providers:
 - `app/Providers/Filament/AppPanelProvider.php`
 - `app/Providers/Filament/PublicPanelProvider.php`
 
+Alternatively, these settings are also consolidated in the `config/filakit.php` file for easier management.
+
 ### Themes and Colors
 
-Each panel can have its own color scheme, which can be easily modified in the corresponding Provider files.
+Each panel can have its own color scheme, which can be easily modified in the corresponding Provider files or in the
+`filakit.php` configuration file.
+
+### Configuration File
+
+The `config/filakit.php` file centralizes the configuration of the starter kit, including:
+
+- Panel routes
+- Middleware for each panel
+- Branding options (logo, colors)
+- Authentication guards
 
 ## Resources
 
@@ -86,6 +101,7 @@ FilaKit includes support for:
 - Multi-guard authentication system
 - Tailwind CSS integration
 - Database queue configuration
+- Customizable panel routing and branding
 
 ## License
 
@@ -93,4 +109,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-Developed by [Jefferson Gonçalves](https://github.com/yourusername).
+Developed by [Jefferson Gonçalves](https://github.com/jeffersongoncalves).
