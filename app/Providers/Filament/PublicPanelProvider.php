@@ -29,7 +29,7 @@ class PublicPanelProvider extends PanelProvider
             ->colors([
                 'primary' => Color::Gray,
             ])
-            ->brandLogo(fn () => Vite::asset('resources/images/logo-filakit.png'))
+            ->brandLogo(fn () => Vite::asset(config('filakit.favicon.logo')))
             ->brandLogoHeight('50px')
             ->viteTheme('resources/css/filament/public/theme.css')
             ->defaultThemeMode(config('filakit.theme_mode', ThemeMode::Dark))
