@@ -11,7 +11,7 @@ return [
     'favicon' => [
         'enabled' => true,
         'manifest' => [
-            'name' => 'FilaKit',
+            'name' => env('APP_NAME', 'Filakit'),
             'icons' => [
                 '36' => '0.75',
                 '48' => '1.0',
