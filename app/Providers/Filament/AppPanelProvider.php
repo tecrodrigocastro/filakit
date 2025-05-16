@@ -20,7 +20,6 @@ use Illuminate\Routing\Middleware\SubstituteBindings;
 use Illuminate\Session\Middleware\StartSession;
 use Illuminate\Support\Facades\Vite;
 use Illuminate\View\Middleware\ShareErrorsFromSession;
-use pxlrbt\FilamentEnvironmentIndicator\EnvironmentIndicatorPlugin;
 
 class AppPanelProvider extends PanelProvider
 {
@@ -63,13 +62,7 @@ class AppPanelProvider extends PanelProvider
                 Authenticate::class,
             ])
             ->plugins([
-                EnvironmentIndicatorPlugin::make()
-                    ->color(fn () => match (app()->environment()) {
-                        'production' => null,
-                        'staging' => Color::Orange,
-                        default => Color::Blue,
-                    })
-                    ->visible(fn () => config('filakit.show_environment_indicator', false)),
+                //
             ])
             ->unsavedChangesAlerts()
             ->passwordReset()
