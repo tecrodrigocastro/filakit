@@ -1,5 +1,5 @@
 {
-    "name" : "jeffersongoncalves/filakit",
+    "name" : "@jeffersongoncalves/filakit",
     "private": true,
     "type": "module",
     "scripts": {
