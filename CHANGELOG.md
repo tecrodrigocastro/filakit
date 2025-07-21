@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.33 - 2025-07-21
+
+### What's Changed
+
+* build(deps-dev): bump vite from 7.0.4 to 7.0.5 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/48
+* build(deps): bump the actions-deps group with 6 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/49
+* Update dependabot.yml by @jeffersongoncalves in https://github.com/jeffersongoncalves/filakit/pull/50
+
+**Full Changelog**: https://github.com/jeffersongoncalves/filakit/compare/3.3.32...3.3.33
+
 ## 3.3.32 - 2025-07-16
 
 ### What's Changed
