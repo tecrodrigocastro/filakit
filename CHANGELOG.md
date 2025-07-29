@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.34 - 2025-07-29
+
+### What's Changed
+
+* build(deps): bump form-data from 4.0.3 to 4.0.4 in the npm_and_yarn group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/51
+* build(deps): bump aglipanci/laravel-pint-action from 2.5 to 2.6 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/52
+* build(deps-dev): bump axios from 1.10.0 to 1.11.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/53
+* build(deps-dev): bump vite from 7.0.5 to 7.0.6 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/54
+
+**Full Changelog**: https://github.com/jeffersongoncalves/filakit/compare/3.3.33...3.3.34
+
 ## 3.3.33 - 2025-07-21
 
 ### What's Changed
