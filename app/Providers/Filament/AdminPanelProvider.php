@@ -69,7 +69,7 @@ class AdminPanelProvider extends PanelProvider
             ])
             ->plugins([
                 FilamentLogViewer::make()
-                    ->navigationGroup("Settings")
+                    ->navigationGroup('Settings'),
             ])
             ->unsavedChangesAlerts()
             ->passwordReset()
