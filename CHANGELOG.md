@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.46 - 2026-01-01
+
+### What's Changed
+
+* build(deps-dev): bump autoprefixer from 10.4.21 to 10.4.22 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/71
+* build(deps-dev): bump vite from 7.2.2 to 7.2.4 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/72
+* build(deps): bump actions/checkout from 5 to 6 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/73
+* build(deps-dev): bump vite from 7.2.4 to 7.2.6 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/74
+* build(deps-dev): bump vite from 7.2.6 to 7.2.7 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/75
+* build(deps-dev): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/76
+* build(deps): bump the actions-deps group with 8 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/77
+* build(deps-dev): bump barryvdh/laravel-debugbar from 3.16.1 to 3.16.2 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/78
+* build(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/79
+* build(deps-dev): bump @tailwindcss/forms from 0.5.10 to 0.5.11 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/80
+* build(deps): bump livewire/livewire from 3.7.2 to 3.7.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/81
+* build(deps): bump laravel/framework from 12.43.1 to 12.44.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/82
+* build(deps-dev): bump barryvdh/laravel-debugbar from 3.16.2 to 3.16.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/83
+
+**Full Changelog**: https://github.com/jeffersongoncalves/filakit/compare/3.3.45...3.3.46
+
 ## 3.3.45 - 2025-11-11
 
 ### What's Changed
