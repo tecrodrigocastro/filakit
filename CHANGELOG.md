@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.3.48 - 2026-02-10
+
+### What's Changed
+
+* build(deps): bump laravel/framework from 12.46.0 to 12.47.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/90
+* build(deps-dev): bump postcss-nesting from 13.0.2 to 14.0.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/91
+* build(deps-dev): bump larastan/larastan from 3.8.1 to 3.9.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/92
+* build(deps-dev): bump laravel-vite-plugin from 2.0.1 to 2.1.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/93
+* build(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/94
+* build(deps-dev): bump barryvdh/laravel-debugbar from 3.16.3 to 3.16.4 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/95
+* build(deps-dev): bump axios from 1.13.2 to 1.13.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/96
+* build(deps-dev): bump barryvdh/laravel-debugbar from 3.16.4 to 4.0.2 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/97
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.2 to 4.0.3 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/98
+* build(deps-dev): bump axios from 1.13.3 to 1.13.4 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/99
+* build(deps): bump laravel/framework from 12.48.1 to 12.49.0 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/100
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.3 to 4.0.4 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/101
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.4 to 4.0.5 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/102
+* build(deps): bump psy/psysh from 0.12.18 to 0.12.19 by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/103
+* build(deps-dev): bump autoprefixer from 10.4.23 to 10.4.24 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/104
+* build(deps-dev): bump larastan/larastan from 3.9.1 to 3.9.2 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/105
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.5 to 4.0.6 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/106
+* build(deps): bump the actions-deps group with 2 updates by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/107
+* build(deps-dev): bump axios from 1.13.4 to 1.13.5 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/108
+* build(deps-dev): bump barryvdh/laravel-debugbar from 4.0.6 to 4.0.7 in the actions-deps group by @dependabot[bot] in https://github.com/jeffersongoncalves/filakit/pull/109
+
+**Full Changelog**: https://github.com/jeffersongoncalves/filakit/compare/3.3.47...3.3.48
+
 ## 3.3.47 - 2026-01-09
 
 ### What's Changed
